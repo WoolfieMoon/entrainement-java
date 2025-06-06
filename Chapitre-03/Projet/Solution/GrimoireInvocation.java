@@ -10,21 +10,11 @@ public class GrimoireInvocation
 
     public static void invoquer(String element)
     {
-        if (element.equals("feu"))
-        {
-            sortFeu();
-        }
-        else if (element.equals("glace"))
-        {
-            sortGlace();
-        }
-        else if (element.equals("foudre"))
-        {
-            sortFoudre();
-        }
-        else
-        {
-            System.out.print("Échec de l’invocation : élément inconnu. ");
+        switch (element) {
+            case "feu" -> sortFeu();
+            case "glace" -> sortGlace();
+            case "foudre" -> sortFoudre();
+            default -> System.out.print("Échec de l’invocation : élément inconnu. ");
         }
     }
 
