@@ -119,7 +119,7 @@ Le vieux parchemin magique écrit automatiquement le **type exact** d'une créat
 2. Dans `main`, instancie une créature de chaque type.
 3. Pour chacune, affiche :
 
-<nom> est une instance de : <nom de la classe>
+nom est une instance de : nom de la classe
 
 4. Exemple :
 
@@ -136,7 +136,7 @@ Toutes les créatures descendent d’un ancêtre qui possédait une **capacité 
 **Énoncé :**
 1. Ajoute une méthode `parler()` à la classe `Creature` qui affiche :
 
-<nom> dit : Je suis une créature d’Aleboréa.
+nom dit : Je suis une créature d’Aleboréa.
 
 2. Ne redéfinis pas cette méthode dans les sous-classes.
 3. Dans `main`, appelle `parler()` sur des instances de `Gobelin`, `Dragon` et `Creature`.
