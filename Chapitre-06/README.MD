@@ -158,4 +158,3 @@ Un être polymorphe voyage entre formes : tantôt gobelin, tantôt dragon, tant�
     - autre → `Creature` `"Inconnu"` niveau `1`
 2. Dans `main`, appelle trois fois la méthode avec les codes 1, 2, et 42.
 3. Pour chaque retour, appelle `afficher()`.
-
