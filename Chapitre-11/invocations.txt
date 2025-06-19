@@ -1,0 +1,5 @@
+Feu:10
+Eau:0
+:30
+Interdit:50
+Air:20
