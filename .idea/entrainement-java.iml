@@ -3,18 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-01/Projet/Solution" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-01/Solution" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-02/Projet/Solution" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-02/Solution" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-03/Projet/Solution" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-03/Solution" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-04/Projet/Solution" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-04/Solution" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-05/Projet/Solution" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-05/Solution" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-06/Projet/Solution" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chapitre-06/Solution" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapitre-12/Projet/Solution" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
